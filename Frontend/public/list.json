@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "Comedy book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 10,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/premium-photo/3d-photo-comedic-scene-inside-cozy-funny-atmosphere-twist-chicken-revelation-friends_1139417-107038.jpg?uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "Sports book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Sports",
+        "image": "https://img.freepik.com/premium-photo/variety-sports-equipment-isolated-white-background_1026943-201.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "Spiritual book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 15,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/ai-imagine-ai-generated-practicing-mindfulness-meditation-daily_1290175-3704.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Kids book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "GK book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 12,
+        "category": "Education",
+        "image": "https://img.freepik.com/premium-photo/book-that-has-light-bulb-it_1168418-34662.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 7,
+        "name": "Yoga book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Sports",
+        "image": "https://img.freepik.com/premium-photo/picture-woman-doing-yoga-poses-with-picture-woman-doing-yoga_873925-1663856.jpg?uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 8,
+        "name": "Music book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Music",
+        "image": "https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103366.jpg?uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 9,
+        "name": "Kids book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 10,
+        "name": "Kids book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 11,
+        "name": "Kids book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 12,
+        "name": "Kids book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 13,
+        "name": "Music book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 18,
+        "category": "Music",
+        "image": "https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103460.jpg?uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    },
+    {
+        "id": 14,
+        "name": "Sports book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-national-sports-day-illustration_23-2148990624.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
+    }
+]
