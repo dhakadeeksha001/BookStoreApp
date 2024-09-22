@@ -8,14 +8,6 @@
         "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
     },
     {
-        "id": 2,
-        "name": "Comedy book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 10,
-        "category": "Entertainment",
-        "image": "https://img.freepik.com/premium-photo/3d-photo-comedic-scene-inside-cozy-funny-atmosphere-twist-chicken-revelation-friends_1139417-107038.jpg?uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
-    },
-    {
         "id": 3,
         "name": "Sports book",
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
@@ -27,7 +19,7 @@
         "id": 4,
         "name": "Spiritual book",
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 15,
+        "price": 0,
         "category": "Free",
         "image": "https://img.freepik.com/premium-photo/ai-imagine-ai-generated-practicing-mindfulness-meditation-daily_1290175-3704.jpg?size=626&ext=jpg&uid=R162778840&ga=GA1.1.GA1.1.1311374450.1725722341&semt=ais_hybrid"
     },
