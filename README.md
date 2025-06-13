@@ -8,7 +8,7 @@ A simple full‑stack bookstore application where users can browse, add to cart,
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
-
+- 
 ---
 
 ## 📥 Installation
@@ -45,6 +45,6 @@ This setup ensures all parts run concurrently and connect properly.
 ```bash
 BookStoreApp/
 ├── frontend/      # Front‑end UI (e.g. React/Vue)
-├── backend/       # API server (Node/Express)
-└── terminal/      # Shared CLI tools & dev utilities
+├── backend/       # API server (Node/Express/MongoDB)
+└── Admin/         # Admin dashboard and tools
 ```
