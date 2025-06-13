@@ -36,7 +36,7 @@ npm start
 ```
 3. Admin
 ```bash
-cd terminal
+cd Admin
 npm run dev
 ```
 This setup ensures all parts run concurrently and connect properly.
