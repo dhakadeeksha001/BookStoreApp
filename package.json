@@ -1,0 +1,5 @@
+{
+  "name": "my-fullstack-app",
+  "private": true,
+  "workspaces": ["admin", "backend","frontend"]
+}
