@@ -43,7 +43,7 @@ This setup ensures all parts run concurrently and connect properly.
 ## 📁 Project Structure
 ```bash
 BookStoreApp/
-├── frontend/      # Front‑end UI (e.g. React/Vue)
+├── frontend/      # Front‑end UI (e.g. React/Vite)
 ├── backend/       # API server (Node/Express/MongoDB)
 └── Admin/         # Admin dashboard and tools
 ```
