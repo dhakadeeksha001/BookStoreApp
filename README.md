@@ -1,6 +1,6 @@
 # BookStoreApp 📚
 
-A simple full‑stack bookstore application where users can browse, add to cart, and purchase books. Built with separate `frontend`, `backend`, and `Admin` modules for modular development and local setup.
+A simple full‑stack bookstore application where users can browse and purchase books. Built with separate `frontend`, `backend`, and `Admin` modules for modular development and local setup.
 
 ---
 
@@ -8,7 +8,6 @@ A simple full‑stack bookstore application where users can browse, add to cart,
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
-- 
 ---
 
 ## 📥 Installation
