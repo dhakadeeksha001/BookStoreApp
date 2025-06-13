@@ -8,9 +8,6 @@ A simple full‑stack bookstore application where users can browse, add to cart,
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -21,3 +18,32 @@ Clone the repository and install main dependencies:
 git clone https://github.com/dhakadeeksha001/BookStoreApp.git
 cd BookStoreApp
 npm install
+```
+
+## 🚀 How to Run
+
+Launch the app in three separate terminals:
+
+1. Frontend
+```bash
+cd frontend
+npm run dev
+```
+2. Backend
+```bash
+cd backend
+npm start
+```
+3. Admin
+```bash
+cd terminal
+npm run dev
+```
+This setup ensures all parts run concurrently and connect properly.
+
+## 📁 Project Structure
+BookStoreApp/
+├── frontend/      # Front‑end UI (e.g. React/Vue)
+├── backend/       # API server (Node/Express)
+└── terminal/      # Shared CLI tools & dev utilities
+
