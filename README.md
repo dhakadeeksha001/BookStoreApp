@@ -1,17 +1,23 @@
-# BookStoreApp
+# BookStoreApp 📚
 
-## 🛠️ Prerequisites
+A simple full‑stack bookstore application where users can browse, add to cart, and purchase books. Built with separate `frontend`, `backend`, and `terminal` modules for modular development and local setup.
 
-Ensure you have the following installed:
+---
 
-- Node.js (v14+ recommended)
-- npm (comes with Node.js)
+## 📘 Table of Contents
+- [Installation](#installation)
+- [How to Run](#how-to-run)
+- [Project Structure](#project-structure)
+- [Scripts](#scripts)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 📥 Install Dependencies
+---
 
-Clone the repo, then install:
+## 📥 Installation
 
+Clone the repository and install main dependencies:
 ```bash
 git clone https://github.com/dhakadeeksha001/BookStoreApp.git
-cd your-repo
+cd BookStoreApp
 npm install
