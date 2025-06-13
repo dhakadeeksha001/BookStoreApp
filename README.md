@@ -1,6 +1,6 @@
 # BookStoreApp 📚
 
-A simple full‑stack bookstore application where users can browse, add to cart, and purchase books. Built with separate `frontend`, `backend`, and `terminal` modules for modular development and local setup.
+A simple full‑stack bookstore application where users can browse, add to cart, and purchase books. Built with separate `frontend`, `backend`, and `Admin` modules for modular development and local setup.
 
 ---
 
@@ -42,8 +42,9 @@ npm run dev
 This setup ensures all parts run concurrently and connect properly.
 
 ## 📁 Project Structure
+```bash
 BookStoreApp/
 ├── frontend/      # Front‑end UI (e.g. React/Vue)
 ├── backend/       # API server (Node/Express)
 └── terminal/      # Shared CLI tools & dev utilities
-
+```
